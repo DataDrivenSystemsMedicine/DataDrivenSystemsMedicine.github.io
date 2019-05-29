@@ -43,3 +43,49 @@ The event will run from 12pm-5pm June 11th to 8.45am-4pm June 12th and will host
 **16.30-17.00** Talk 6 - Simon Elwood-Thompson (SAIL databank)
 
 **17.00-17.05** questions
+
+<h1>Day Two</h1>
+
+**8.45-9.15** Talk 7 - Prof. Benedict Seddon (University of Oxford)
+
+**9.15-9.20** questions
+
+**9.20-9.50** Talk 8 - Prof. Mark Coles (University College London)
+
+**9.50-9.55** questions
+
+**9.55-10.25** Talk 9 - Dr. Venkatesh Pilla Reddy (AstraZeneca)
+
+**10.25-10.30** questions
+
+**10.30-11.00** coffee
+
+**11.00-11.30** Talk 10 - Dr. Piotr Ostrowski (GSK)
+
+**11.30-11.35** questions
+
+**11.35-12.05** Talk 11 Dr. Ceire Costelloe (Imperial College London)
+
+**12.05-12.10** questions
+
+**12.10-12.40** Talk 12 Dr. Manasi Nandi (King's College London)
+
+**12.40-12.45** questions
+
+**12.45-13.45** lunch
+
+**13.45-14.15** Talk 13 Dr. Christopher Yau (University of Birmingham)
+
+**14.15-14.20** questions
+
+**14.20-14.50** Talk 14 - Dr. Sascha Ott (University of Warwick)
+
+**14.50-14.55** questions
+
+**14.55-15.25** Talk 15 - Prof. Donald Fraser (Cardiff University)
+
+**15.25-15.30** questions
+
+**15.30-16.00** coffee
+
+
