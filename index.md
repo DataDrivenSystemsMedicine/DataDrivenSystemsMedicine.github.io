@@ -11,6 +11,7 @@ The aim of this day and a half long workshop is to gather a multi-disciplinary g
 The event will run from 12pm-5pm June 11th to 8.45am-4pm June 12th and will host 15 invited speakers. The workshop is intended for senior PhD students, postdocs, researchers, academics and representatives of Industry with interest/background in the area of data/health science and systems medicine. Up to 15 poster boards are also available. Please contact szomolayb@cardiff.ac.uk with any inquiries.
 
 <h1>Day One</h1>
+
 **12.00-12.30** registration
 
 **12.30-12.35** Opening - Prof. Roger Whitaker (Supercomputing Wales)
