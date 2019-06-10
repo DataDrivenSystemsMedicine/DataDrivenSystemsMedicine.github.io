@@ -100,7 +100,7 @@ _Single-cell RNA sequencing in reproductive medicine_
 **14.50-14.55** questions
 
 **14.55-15.25** Talk 15 - [Dr. Timothy Bowen](https://www.cardiff.ac.uk/people/view/122808-bowen-timothy) (Cardiff University):
-_Systems approac    es to translational nephrology_
+_Systems approaces to translational nephrology_
 
 **15.25-15.30** questions
 
